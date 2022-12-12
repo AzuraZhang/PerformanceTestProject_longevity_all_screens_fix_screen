@@ -441,6 +441,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"db616ade3ac406f2899c247aac3cac56","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: Etichetta5
     Type: Label
     Children:
@@ -1797,6 +1801,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"7714da3782c7b41ef336ac979a883196","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: GraficoDiAndamento1
     Type: Trend
     Children:
@@ -13256,6 +13264,11 @@ Children:
                 Type: BaseDataVariableType
                 DataType: VariablePointer
                 Value: {"IdType":2,"Id":"2ae03a88a882b04a83840c7a2557f2db","Namespace":24}
+                Children:
+                - Name: DynamicLink
+                  Type: DynamicLink
+                  DataType: NodePath
+                  Value: "{TagRoot}/Bool001Toggle1Sec@NodeId"
               - Name: Value
                 Type: BaseDataVariableType
                 DataType: Boolean
@@ -13293,6 +13306,11 @@ Children:
                 Type: BaseDataVariableType
                 DataType: VariablePointer
                 Value: {"IdType":2,"Id":"2cb99f2f9db8f6872b479713c86fb28b","Namespace":24}
+                Children:
+                - Name: DynamicLink
+                  Type: DynamicLink
+                  DataType: NodePath
+                  Value: "{TagRoot}/Bool002Toggle1Sec@NodeId"
               - Name: Value
                 Type: BaseDataVariableType
                 DataType: Boolean
@@ -13462,6 +13480,11 @@ Children:
                 Type: BaseDataVariableType
                 DataType: VariablePointer
                 Value: {"IdType":2,"Id":"18a01c601803a63dcfb2016e28dc7821","Namespace":24}
+                Children:
+                - Name: DynamicLink
+                  Type: DynamicLink
+                  DataType: NodePath
+                  Value: "{TagRoot}/Dint001Ramp500msec@NodeId"
               - Name: Value
                 Type: BaseDataVariableType
                 DataType: Int32
@@ -23314,6 +23337,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"69f4a2473fc6f8730cd95902fba70e88","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: D1
     Type: BaseDataVariableType
     DataType: Int32

@@ -365,6 +365,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"77c2496311814061273fa95fb14a56c6","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: SpinBox1
     Type: SpinBox
     Children:
@@ -4973,6 +4977,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"05e7d4f832847be40b03ebb07d04226f","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: CasellaDiTesto1
     Type: TextBox
     Children:
@@ -7006,6 +7014,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"5c7492625c03b781087f8bbe551457d4","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: Etichetta2
     Type: Label
     Children:
@@ -13395,6 +13407,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"9447638acf5bbf1fcbce2e95b228d011","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: Rettangolo1
     Type: Rectangle
     Children:
@@ -19419,6 +19435,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"80eddbc88c8c3a4fbc88d5b60f572a14","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: Etichetta2
     Type: Label
     Children:
@@ -24907,6 +24927,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"88d4cec4e475cd33728c9d15d090c1a8","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: FlammableMaterialSymbol2
     Type: FlammableMaterialSymbol1
     Children:
@@ -37095,6 +37119,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"893be7bb0c13329b429d78435e1bac48","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: FlagAfghanistan1
     Type: FlagAfghanistan
     Children:

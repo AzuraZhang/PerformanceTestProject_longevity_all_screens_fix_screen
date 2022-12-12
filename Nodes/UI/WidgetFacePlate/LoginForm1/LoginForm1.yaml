@@ -52,6 +52,7 @@ Children:
       Value: {"Id":6,"Namespace":5}
   - Class: Reference
     Target: ns=5;i=478
+    Direction: Forward
   - Name: Width
     Type: BaseVariableType
     DataType: Size

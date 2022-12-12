@@ -371,6 +371,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"b53649962ed4abc4e1ab5a41e8b07285","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: SpinBox1
     Type: SpinBox
     Children:
@@ -14963,6 +14967,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"c7730f571672fd4c31aadf4de0c1fe6c","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: BaseScreen1
     Type: BaseScreen27
     Children:

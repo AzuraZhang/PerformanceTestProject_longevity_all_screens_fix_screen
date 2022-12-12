@@ -441,6 +441,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"db616ade3ac406f2899c247aac3cac56","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: Etichetta5
     Type: Label
     Children:
@@ -1559,6 +1563,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"7714da3782c7b41ef336ac979a883196","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: GraficoDiAndamento1
     Type: Trend
     Children:
@@ -13272,6 +13280,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"3e1164f0412b4b45866b74c11450bff3","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: B1
     Type: BaseDataVariableType
     DataType: Boolean
@@ -19750,6 +19762,10 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":2,"Id":"333e0b87109f89fea3aa29e24df52d9a","Namespace":24}
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: ""
   - Name: D1
     Type: BaseDataVariableType
     DataType: Int32

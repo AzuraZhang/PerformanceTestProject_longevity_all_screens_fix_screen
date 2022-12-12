@@ -63,6 +63,7 @@ Children:
       AccessLevel: Read
     - Class: Reference
       Target: ns=5;i=480
+      Direction: Forward
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -379,6 +380,7 @@ Children:
   Children:
   - Class: Reference
     Target: ns=5;i=519
+    Direction: Forward
   - Name: Width
     Type: BaseVariableType
     DataType: Size
@@ -483,6 +485,7 @@ Children:
           Children:
           - Class: Reference
             Target: g=6930aa38083f8000037fc300255a2614
+            Direction: Forward
         - Name: MouseClickEventHandler1
           Type: EventHandler
           Children:
@@ -642,6 +645,7 @@ Children:
           Children:
           - Class: Reference
             Target: g=3ed2ce0a3dd5519628db9c47448c0d1e
+            Direction: Forward
         - Name: Message
           Type: BaseDataVariableType
           DataType: String
